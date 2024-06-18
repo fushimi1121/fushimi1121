@@ -1,16 +1,26 @@
-## Hi there 👋
+This is where I record new discoveries and knowledge I find in my work and private development. I hope it will be of some help to you.
 
-<!--
-**fushimi1121/fushimi1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+1. I'm a backend developer and my job is maintenance of web service.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. I'm studying frontend develop.
+
+3. I'm interested in building a service that is maintainable and scalable.
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=php,js,typescript," /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=laravel,vue,nuxt" /> <br /><br />
+
+## Interest
+
+* Object Oriented Programming
+* DDD Architecture
+* TDD Architecture
+* Microservices Architecture
+* CQRS
+* CI/CD
